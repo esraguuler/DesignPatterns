@@ -1,0 +1,6 @@
+C:\Users\esrag\source\repos\DesignPatterns\Factory\bin\Debug\Factory.exe.config
+C:\Users\esrag\source\repos\DesignPatterns\Factory\bin\Debug\Factory.exe
+C:\Users\esrag\source\repos\DesignPatterns\Factory\bin\Debug\Factory.pdb
+C:\Users\esrag\source\repos\DesignPatterns\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\DesignPatterns\Factory\obj\Debug\Factory.exe
+C:\Users\esrag\source\repos\DesignPatterns\Factory\obj\Debug\Factory.pdb

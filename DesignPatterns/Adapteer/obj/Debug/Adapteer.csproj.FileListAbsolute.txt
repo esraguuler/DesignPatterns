@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\DesignPatterns\Adapteer\bin\Debug\Adapteer.exe.config
+C:\Users\esrag\source\repos\DesignPatterns\Adapteer\bin\Debug\Adapteer.exe
+C:\Users\esrag\source\repos\DesignPatterns\Adapteer\bin\Debug\Adapteer.pdb
+C:\Users\esrag\source\repos\DesignPatterns\Adapteer\obj\Debug\Adapteer.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\DesignPatterns\Adapteer\obj\Debug\Adapteer.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\DesignPatterns\Adapteer\obj\Debug\Adapteer.exe
+C:\Users\esrag\source\repos\DesignPatterns\Adapteer\obj\Debug\Adapteer.pdb

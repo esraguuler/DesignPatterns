@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\esrag\source\repos\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\esrag\source\repos\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\esrag\source\repos\DesignPatterns\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\esrag\source\repos\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
